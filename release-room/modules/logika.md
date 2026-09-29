@@ -2,4 +2,4 @@
 
 Odpowiedzialny: Dzienniiik
 Stan: GOTOWY
-Opis zmiany: Dodano walidacje danych wejsciowych.
+Opis zmiany: Dodano walidacje danych wejsciowych - Dodaje bardziej szczegolowe informacje.
