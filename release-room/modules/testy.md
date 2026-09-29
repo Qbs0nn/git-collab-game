@@ -1,5 +1,5 @@
 # Moduł testy
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: 83arti
+Stan: GOTOWY
+Opis zmiany: Sprawdzono podstawowe scenariusze wydania.
