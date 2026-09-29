@@ -1,5 +1,5 @@
 # Moduł interfejs
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
+Odpowiedzialny: Qbs0nn
+Stan: GOTOWY
 Opis zmiany: BRAK
