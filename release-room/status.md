@@ -2,5 +2,5 @@
 
 Wersja: 1.0
 Stan wydania: ZABLOKOWANE
-Decyzja wdrożeniowa: WDRAZAMY W PIATEK
+Decyzja wdrożeniowa: WPROWADZAMY W PONIEDZIALEK
 Koordynator: Qbs0nn
